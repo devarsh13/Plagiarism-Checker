@@ -1,0 +1,65 @@
+                             
+                                 
+
+                          U.V Patel College of Engineering
+Name:-Patel Manushi.p.
+In B.tect 1st year of computer science and Engineering
+Course:- CBA
+Sub:-ESFP
+Project:-Ass-1
+
+
+
+
+Q-2. Explain different data types available in  C.
+Ans:-The individual words and punctuation  marks of token.In c              Programming,the smallest individual is known as C                           token.
+           There are six type of Token are:-
+               1)Keywords  :-
+                                         eg-do,While
+                            It must be return in lowercase.There are 32                             Keywords in C.It is reserved words in C.
+                                 It is of 4 type :-a)auto
+                              b)double 
+                              c)int
+                              d)struct
+                                         
+               2)Constants:-
+
+                                            eg-number,sum
+               3)Identifier:- 
+                                    First caracter must be an Alphabet or                                      Underscore.It consists of combination of any                                 leters,digits or underscore(no other).Only 31                                       character are significant.It not use                                         keywords
+                                           eg-   -76,89
+                4)Strings:- 
+
+                                           eg-  "HTF","PRIT"
+                  5)Special Symbols:-
+                                           eg-*,@
+                             6)Operators:-
+                                           eg-++,/
+
+
+Q-3. Explain different data types available in C.
+
+ a:-There are four type of variable Data Type.
+The primary data type and type and their extension are discussed in this section .The used -defined data types are defined in the next section while the derived data type such as arrays,fuctions,suctures and pointers  are discuountered.
+ssed as and when theyare encontered.
+There are 4 basics data type are:-
+     1)char
+     2)int
+     3)float
+     4)double
+Many of them also offer extented data types such as long int and long double.
+
+
+
+Q-4. Explain about backslash characters in C.
+a:-  1)There are some characters which have special meaning in                C     Language.
+      2)They should be preceded by backslash symbols function of           them.
+
+          there are some backslash character:-
+            \b,\f,\n,\r,\t,\",\',\\etc.
+            \b:-Backspace
+            \f:-form feed
+             \n:-New line
+             \r:-Carriage return
+\t:-Horizontol tab
+etc
